@@ -4,6 +4,11 @@ A **comprehensive weather analysis and forecasting dashboard** built with **Stre
 
 ---
 
+## Screenshot
+![Screenshot](screenshot.png)
+
+---
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
